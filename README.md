@@ -45,3 +45,8 @@ Guides:
 Libraries and references:
 
 - [Prometheus library for Arduino](https://github.com/grafana/prometheus-arduino)
+
+## General inspiration
+
+- [IoT at your home, work, or data center with Prometheus metrics and Grafana Cloud](https://grafana.com/blog/2021/07/19/iot-at-your-home-work-or-data-center-with-prometheus-metrics-and-grafana-cloud/)
+- [IoT posts at the Grafana blog](https://grafana.com/tags/iot/)
