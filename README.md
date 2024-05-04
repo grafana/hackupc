@@ -18,9 +18,11 @@ Libraries and references:
 
 - [DHT sensor library](https://github.com/adafruit/DHT-sensor-library)
 
-### Sensor list
+### Board and sensors
 
-[Sensor list](SENSORS.md)
+- [ESP32 pinout](ESP32.md)
+- [Sensor list](SENSORS.md)
+
 
 ### Sending data with a computer
 
